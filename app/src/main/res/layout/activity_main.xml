@@ -10,12 +10,13 @@
     >
 
   <ImageView
+
       android:id="@+id/dice_image"
       android:layout_width="276dp"
       android:layout_height="wrap_content"
       android:layout_gravity="center_horizontal"
       app:srcCompat="@drawable/empty_dice"
-      tools:src="@drawable/dice_1"></ImageView>
+      tools:src="@drawable/dice_1" />
 
   <Button
         android:id="@+id/roll_button"
